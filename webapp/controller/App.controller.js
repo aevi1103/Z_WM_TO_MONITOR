@@ -5,7 +5,9 @@ sap.ui.define([
 
 	return Controller.extend("com.federalmogul.Z_WM_TO_MONITOR.controller.App", {
 		onInit: function () {
-			console.log('test')
+		},
+		onSmartTableInit: function() {
+			setInterval(() => this.byId("smartTable").rebindTable(), (1 * 60000));
 		}
 	});
 });

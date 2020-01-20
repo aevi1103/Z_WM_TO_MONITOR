@@ -129,7 +129,7 @@
 		}
 	},
 	"sap.platform.abap": {
-		"uri": "/sap/bc/ui5_ui5/sap/z_wm_sm/webapp",
+		"uri": "/sap/bc/ui5_ui5/sap/z_wm_to_monitor/webapp",
 		"_version": "1.1.0"
 	}
 }

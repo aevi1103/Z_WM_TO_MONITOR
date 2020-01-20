@@ -18,6 +18,7 @@
 						</Record>
 						<Record Type="UI.DataField">
 							<PropertyValue Property="Value" Path="Tapos"/>
+							<PropertyValue Property="Label" String="{@i18n&gt;TR_ORDER_ITEM}"/>
 						</Record>
 						<Record Type="UI.DataField">
 							<PropertyValue Property="Value" Path="Matnr"/>
@@ -27,27 +28,32 @@
 						</Record>
 						<Record Type="UI.DataField">
 							<PropertyValue Property="Value" Path="Nsolm"/>
+							<PropertyValue Property="Label" String="{@i18n&gt;DESTINATION_TARGET_QTY}"/>
 						</Record>
 						<Record Type="UI.DataField">
 							<PropertyValue Property="Value" Path="Meins"/>
 						</Record>
 						<Record Type="UI.DataField">
 							<PropertyValue Property="Value" Path="Vltyp"/>
+							<PropertyValue Property="Label" String="{@i18n&gt;SOURCE_STORAGE_TYPE}"/>
 						</Record>
 						<Record Type="UI.DataField">
 							<PropertyValue Property="Value" Path="Vlpla"/>
+							<PropertyValue Property="Label" String="{@i18n&gt;SOURCE_STORAGE_BIN}"/>
 						</Record>
 						<Record Type="UI.DataField">
 							<PropertyValue Property="Value" Path="Vlenr"/>
 						</Record>
 						<Record Type="UI.DataField">
 							<PropertyValue Property="Value" Path="Nltyp"/>
+							<PropertyValue Property="Label" String="{@i18n&gt;DESTINATION_STORAGE_TYPE}"/>
 						</Record>
 						<Record Type="UI.DataField">
 							<PropertyValue Property="Value" Path="Nlpla"/>
 						</Record>
 						<Record Type="UI.DataField">
 							<PropertyValue Property="Value" Path="Nlenr"/>
+							<PropertyValue Property="Label" String="{@i18n&gt;DESTINATION_STORAGE_UNIT}"/>
 						</Record>
 					</Collection>
 				</Annotation>
