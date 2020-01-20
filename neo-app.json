@@ -40,6 +40,15 @@
         "version": "1.52.39"
       },
       "description": "SAPUI5 Test Resources"
+    },
+    {
+      "path": "/sap/opu/odata",
+      "target": {
+        "type": "destination",
+        "name": "ED4",
+        "entryPath": "/sap/opu/odata"
+      },
+      "description": "ED4"
     }
   ],
   "sendWelcomeFileRedirect": true
