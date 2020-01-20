@@ -5,7 +5,7 @@ sap.ui.define([
 
 	return Controller.extend("com.federalmogul.Z_WM_TO_MONITOR.controller.App", {
 		onInit: function () {
-
+			console.log('test')
 		}
 	});
 });
